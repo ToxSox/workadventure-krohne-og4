@@ -134,6 +134,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.waz.de\/"
+                }, 
+                {
+                 "name":"play",
+                 "type":"string",
+                 "value":"https:\/\/tsojka-kunden.de\/274448__lorenzgillner__toilet-flushing_01.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
