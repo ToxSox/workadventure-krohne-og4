@@ -24,3 +24,7 @@ Daniel: Zauberer
 
     Das fällt mir so auf Anhieb ein.
 steffen: https://www.halbach-wein.de
+
+
+https://padlet.com/embed/7w34o9djfp7d0szz
+https://padlet.com/embed/v4ji4lwaaka3vzja
