@@ -493,7 +493,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"floor3.json"
+                 "value":"floor4.json"
                 }],
          "type":"tilelayer",
          "visible":false,
