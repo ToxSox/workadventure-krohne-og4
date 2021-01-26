@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json#fromstairs"
+                 "value":"office4.json#fromstairs"
                 }],
          "type":"tilelayer",
          "visible":true,
