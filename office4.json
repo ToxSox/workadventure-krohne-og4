@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/krohne-world.tsojka.com\/action-ck"
+                 "value":"https:\/\/krohne-world.tsojka.com\/action-ck"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/krohne-world.tsojka.com\/bild2"
+                 "value":"https:\/\/krohne-world.tsojka.com\/bild2"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/krohne-world.tsojka.com\/bild1"
+                 "value":"https:\/\/krohne-world.tsojka.com\/bild1"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -169,7 +169,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/krohne-world.tsojka.com\/bild3"
+                 "value":"https:\/\/krohne-world.tsojka.com\/bild3"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/krohne-world.tsojka.com\/typ1"
+                 "value":"https:\/\/krohne-world.tsojka.com\/typ1"
                 }],
          "type":"tilelayer",
          "visible":false,
