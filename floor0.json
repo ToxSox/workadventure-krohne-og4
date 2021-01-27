@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/krohne-playground.tsojka.com\/wa\/tuer_gesperrt.jpg"
+                 "value":"http:\/\/krohne-world.tsojka.com\/tuer-gesperrt"
                 }],
          "type":"tilelayer",
          "visible":true,
